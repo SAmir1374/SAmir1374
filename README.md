@@ -15,7 +15,4 @@ Hi, I'm a passionate and detail-oriented developer with a knack for creating dyn
 ---
 [![](https://visitcount.itsvg.in/api?id=SAmir1374&label=Profile%20Views&color=0&icon=4&pretty=true)](https://visitcount.itsvg.in)
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=SAmir1374&label=Profile%20Views&color=0&icon=4&pretty=true" />
-</a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
